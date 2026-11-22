@@ -34,6 +34,8 @@ function fechaChile() {
 }
 
 function estadoSemana(semana) {
+  // Sin planilla conectada es modo demo: todas las semanas quedan abiertas para probar.
+  if (!window.CONFIG || !window.CONFIG.SCRIPT_URL) return "abierta";
   const hoy = fechaChile();
   if (hoy < APERTURAS[semana - 1]) return "proxima";
   if (hoy > CIERRE) return "cerrada";
