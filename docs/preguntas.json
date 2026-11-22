@@ -1,0 +1,206 @@
+{
+  "1": {
+    "titulo": "Mapa de procesos",
+    "bajada": "Primero ubica tu tarea: subproceso, actividad y lugar.",
+    "preguntas": [
+      {
+        "texto": "Te piden mover cátodos en la nave electrolítica. Antes de partir, ¿qué confirmas en el mapa de procesos?",
+        "opciones": [
+          "Solo quién dio la instrucción",
+          "La tarea, su actividad y el subproceso al que pertenece",
+          "El número de personas en el turno",
+          "Solo la hora de entrega"
+        ]
+      },
+      {
+        "texto": "Una tarea de limpieza aparece anotada en otra área. ¿Qué haces antes de ejecutarla?",
+        "opciones": [
+          "Usas la ubicación antigua, porque la tarea es igual",
+          "La haces y corriges el registro al final",
+          "La omites del mapa porque es breve",
+          "Confirmas dónde se hará y ajustas la identificación de la tarea"
+        ]
+      },
+      {
+        "texto": "La cuadrilla va a trabajar cerca de un puente grúa. ¿Para qué sirve ubicar bien la tarea en el mapa?",
+        "opciones": [
+          "Para relacionarla con los peligros y controles que corresponden a ese lugar",
+          "Para evitar conversar con otras cuadrillas",
+          "Para reemplazar el permiso de trabajo",
+          "Para que todas las tareas tengan el mismo nombre"
+        ]
+      },
+      {
+        "texto": "Hoy te asignan retirar cátodos, pero el registro dice instalar ánodos. ¿Qué haces?",
+        "opciones": [
+          "Sigues porque ambas tareas son en la nave",
+          "Cambias el nombre a mano después del turno",
+          "Aclaras la tarea real antes de revisar sus riesgos y controles",
+          "Usas los controles de cualquier tarea parecida"
+        ]
+      },
+      {
+        "texto": "Una actividad cambió de secuencia y ahora incluye traslado de material. ¿Qué corresponde hacer?",
+        "opciones": [
+          "Mantener el mapa anterior hasta el próximo año",
+          "Revisar cómo queda identificada la tarea y llevar el cambio a la evaluación de riesgos",
+          "Dejar que cada turno le ponga un nombre distinto",
+          "Actualizar solo el horario del equipo"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "titulo": "Matriz de riesgos",
+    "bajada": "De la tarea salen los peligros y los controles que deben estar en terreno.",
+    "preguntas": [
+      {
+        "texto": "Antes de trabajar con electrolito, notas una condición que no aparece en la matriz. ¿Qué haces?",
+        "opciones": [
+          "Sigues si el equipo ya conoce el área",
+          "La anotas para la revisión anual",
+          "La reportas y revisas los controles antes de comenzar",
+          "La agregas solo al libro de novedades"
+        ]
+      },
+      {
+        "texto": "La matriz indica un control para el tránsito bajo el puente grúa, pero hoy no está puesto. ¿Qué haces?",
+        "opciones": [
+          "Detienes esa exposición hasta que el control esté implementado",
+          "Cruzas rápido para no atrasar la tarea",
+          "Confías en que el operador del puente grúa te vea",
+          "Lo comentas cuando termine el turno"
+        ]
+      },
+      {
+        "texto": "Al revisar el movimiento de cátodos, ¿qué debes mirar además de las personas expuestas?",
+        "opciones": [
+          "Solo el tiempo que tomará la tarea",
+          "Solo el estado del equipo de protección personal",
+          "Solo el costo del material",
+          "Los posibles efectos en activos y continuidad del negocio"
+        ]
+      },
+      {
+        "texto": "Tu tarea aparece en la matriz, pero el equipo que usarás cambió. ¿Qué haces?",
+        "opciones": [
+          "Usas la evaluación anterior sin revisar",
+          "Revisas si cambian los peligros o controles antes de ejecutar",
+          "Le preguntas a otra cuadrilla después del trabajo",
+          "Cambias solo el nombre del equipo en el permiso"
+        ]
+      },
+      {
+        "texto": "La matriz marca un Riesgo de Fatalidad en una maniobra de izaje. ¿Qué llevas al trabajo del día?",
+        "opciones": [
+          "Solo el nombre del riesgo",
+          "Una copia de la matriz sin leerla",
+          "El riesgo y sus controles críticos, para verificarlos antes de partir",
+          "Una nota para conversarlo al cierre"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "titulo": "Permiso de trabajo",
+    "bajada": "El permiso baja la matriz a la tarea de hoy.",
+    "preguntas": [
+      {
+        "texto": "Firmaste el permiso y después cambió la secuencia del trabajo. ¿Qué haces?",
+        "opciones": [
+          "Sigo, el permiso ya está firmado",
+          "Paro y se revisa el permiso antes de seguir",
+          "Aviso al final del turno",
+          "Lo anoto y sigo"
+        ]
+      },
+      {
+        "texto": "¿De dónde salen los peligros que van en el permiso de trabajo?",
+        "opciones": [
+          "De la experiencia del ejecutor",
+          "Del permiso de la semana pasada",
+          "De la matriz de riesgos de esa tarea",
+          "Del supervisor de turno"
+        ]
+      },
+      {
+        "texto": "Vas a intervenir un equipo. ¿Qué candado te protege a ti?",
+        "opciones": [
+          "El del supervisor",
+          "El tuyo",
+          "El del área",
+          "Cualquiera puesto en el tablero"
+        ]
+      },
+      {
+        "texto": "Cerca de tu tarea trabaja otra cuadrilla. ¿Dónde debería estar eso?",
+        "opciones": [
+          "En ninguna parte, cada uno ve lo suyo",
+          "En el permiso, como trabajo simultáneo",
+          "Solo en el libro de novedades",
+          "En la RIT de mañana"
+        ]
+      },
+      {
+        "texto": "¿Qué pasa con el permiso en la RIT?",
+        "opciones": [
+          "Se firma sin leerlo",
+          "Se conversa: cada uno sale sabiendo su tarea, su riesgo y su control",
+          "Se guarda para la auditoría",
+          "Lo lee solo el supervisor"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "titulo": "Reunión de Inicio de Turno",
+    "bajada": "El equipo conversa la tarea, el riesgo y el control antes de partir.",
+    "preguntas": [
+      {
+        "texto": "En la RIT se nombra una tarea distinta a la que harás con cátodos. ¿Qué haces?",
+        "opciones": [
+          "Sigues lo que figura en el permiso aunque hoy sea distinto",
+          "Te sumas a la tarea que conversó el resto",
+          "Lo aclaras solo con un compañero al salir",
+          "Lo planteas ahí para alinear tarea, riesgos y controles con el equipo"
+        ]
+      },
+      {
+        "texto": "Hoy habrá un izaje con puente grúa. ¿Qué debe salir claro de la RIT?",
+        "opciones": [
+          "Quién hace la tarea, cuál es el riesgo y cómo se verifican los controles críticos",
+          "Solo la hora en que llegará el equipo",
+          "Solo el nombre de quien dirige la reunión",
+          "Que el permiso ya está archivado"
+        ]
+      },
+      {
+        "texto": "Después de la RIT descubres que falta un control crítico para la tarea. ¿Qué haces?",
+        "opciones": [
+          "Lo compensas trabajando más despacio",
+          "Avisas al final, para no detener al equipo",
+          "Te detienes, usas la Tarjeta Verde y pides resolverlo antes de seguir",
+          "Sigues si nadie más lo vio"
+        ]
+      },
+      {
+        "texto": "En la RIT alguien nuevo no puede explicar el control frente al electrolito. ¿Qué corresponde?",
+        "opciones": [
+          "Dar por hecho que lo aprenderá mirando",
+          "Conversar el control con esa persona y confirmar que lo entendió antes de partir",
+          "Dejarlo fuera de la conversación para ahorrar tiempo",
+          "Pedirle que firme y consultar después"
+        ]
+      },
+      {
+        "texto": "Se suma una cuadrilla a trabajar cerca después de la RIT. ¿Qué haces?",
+        "opciones": [
+          "Mantienes el plan porque la reunión ya terminó",
+          "Avisas solo al turno siguiente",
+          "Pides que cada cuadrilla se cuide por su lado",
+          "Detienes el inicio y coordinas el cambio, los riesgos y los controles con todos"
+        ]
+      }
+    ]
+  }
+}
